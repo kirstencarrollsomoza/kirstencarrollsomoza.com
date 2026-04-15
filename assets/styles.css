@@ -24,17 +24,18 @@ body {
 
 /* Name */
 h1 {
-  font-size: 64px;
-  font-weight: 600;
-  margin-bottom: 16px;
-  letter-spacing: -0.5px;
+  font-size: 72px;
+  font-weight: 500;   /* key change */
+  letter-spacing: -1px;
+  margin-bottom: 18px;
 }
 
 /* Subtitle */
 .subtitle {
   font-size: 20px;
-  color: #5f7287;
-  margin-bottom: 40px;
+  color: #6b7c8f;
+  margin-bottom: 42px;
+  font-weight: 400;
 }
 
 /* Button */
